@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VasKD
-- 👀 I’m interested in software engineering and UI/UX design
+- 👀 I’m interested in software engineering
 - 🌱 I’m currently learning java and git
 - 📫 How to reach me: kiara.vasquez6@outlook.com
 - 😄 Pronouns: she/her
