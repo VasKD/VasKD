@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @VasKD
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently learning java and git
+- 👋 Hi, I’m Kiara Vasquez
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning web development
 - 📫 How to reach me: kiara.vasquez6@outlook.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I like to dabble in the arts. I've been crocheting a lot recently.
