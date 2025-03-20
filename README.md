@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kiara Vasquez
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning web development
+- 👀 I’m interested in Full Stack
+- 🌱 I’m currently learning Front End tech
 - 📫 How to reach me: kiara.vasquez6@outlook.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I like to dabble in the arts. I've been crocheting a lot recently.
