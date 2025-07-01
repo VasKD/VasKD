@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning web development
 - 📫 How to reach me: kiara.vasquez6@outlook.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I like to dabble in the arts. I've been crocheting a lot recently.
+- ⚡ Fun fact: I love to read and draw
 
 <!---
 VasKD/VasKD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
